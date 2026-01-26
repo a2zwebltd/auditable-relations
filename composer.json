@@ -12,8 +12,12 @@
     "license": "MIT",
     "authors": [
         {
+            "name": "Nikita V",
+            "email": "nikita@a2zweb.co"
+        },
+        {
             "name": "A2Z Web Ltd",
-            "email": "nick@a2zweb.co"
+            "email": "dawid@a2zweb.co"
         }
     ],
     "require": {
