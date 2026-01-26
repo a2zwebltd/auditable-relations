@@ -278,7 +278,7 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for det
 
 ## Security
 
-If you discover a security vulnerability, please email nick@a2zweb.co.
+If you discover a security vulnerability, please email contact@a2zweb.co.
 
 ## Credits
 
